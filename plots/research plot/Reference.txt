@@ -1,0 +1,9 @@
+Fig 1. In the study, a visual scale showed the trajectory of men and women's stress scores, salivary cortisol concentrations, and salivary amylase activity over time. Adapted from Song, Y., Mewes, R., & Skoluda, N. (2023). How is music listening purpose related to stress recovery? Two preliminary studies in men and women. Frontiers in Psychology, 14, Article 1108402. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1108402/full
+
+Fig 2.Research on the use of music in the treatment of mental illness (1945-2020), categorized by psychological disorder and research methodology. Adapted from Golden, T. L., Springs, S., Kimmel, H. J., Gupta, S., Tiedemann, A., Sandu, C. C., & Magsamen, S. (2021). The use of music in the treatment and management of serious mental illness: A global scoping review of the literature [Figure 1]. Frontiers in Psychology, 12, Article 649840. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.649840/full
+
+Fig 30.Damian Lazos's modelling evaluation results(2023),Music & Mental Health project based on Music & Mental Health Survey Results.
+https://www.kaggle.com/code/damicode/music-mental-health-project#Modeling-level
+
+Fig 48.UI of Depression Test APP, results page, psychological assistance website and Google form it navigates to.
+https://www.mind.org.uk/information-support/local-minds/
